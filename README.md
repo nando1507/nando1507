@@ -8,7 +8,7 @@
 -   Em projetos que vão desde Access/Vba, a Projetos em .Net Core e SQL
 - 🌱 Atualmente estou aprendendo Flutter, Angular, me aprofundando em .Net Core
 - 📫 Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-bareno-calo/)](https://www.linkedin.com/in/fernando-bareno-calo/)
-
+- Curriculo: https://nando1507.github.io/Curriculo/
 
 
 ### Linguagens
